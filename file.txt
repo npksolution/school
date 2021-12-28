@@ -1,5 +1,7 @@
 cgr interbational school
 management
+student1
+student2
 
 staff(sir/madam)
 telugu teacher
